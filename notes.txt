@@ -1,0 +1,2 @@
+PUBSUB_PROJECT_ID=united-blend-479105-a5
+PUBSUB_SUBSCRIPTION=loglm-logs-sub
